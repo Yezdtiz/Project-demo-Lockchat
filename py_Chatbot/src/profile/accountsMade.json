@@ -1,0 +1,10 @@
+{
+    "helloworld": {
+        "password": "123",
+        "avatar_path": "src/profile/defaults/default_avatar.png"
+    },
+    "test": {
+        "password": "123",
+        "avatar_path": "src/profile/defaults/default_avatar.png"
+    }
+}
