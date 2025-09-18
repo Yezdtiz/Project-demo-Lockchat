@@ -13,3 +13,8 @@ Or if enTest.py(Pre-beta) then use this format:
         "*<bot's 3rd reply message>*"
     ],
 # Reminder: Each user-bot group is seperate by a **COMMA** so please remember even its in the en.py(beta).
+
+
+
+
+**By the way i will soon use Electron framework so be hyped but its a long time since i need to learn and uh irl stuffs, im not from anywhere in US/UK so dont ask why my english is so bad...**
